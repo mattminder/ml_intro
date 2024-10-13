@@ -1,0 +1,11 @@
+pol3: Polio (Pol3) immunization coverage among 1-year-olds (%)
+dpt3: Diphtheria tetanus toxoid and pertussis (DTP3) immunization coverage among 1-year-olds (%)
+prevalence_obesity: Prevalence of obesity among adults, BMI &GreaterEqual; 30 (crude estimate) (%)
+fine_particular_matter: Concentrations of fine particulate matter (PM2.5)
+hepB: Hepatitis B (HepB3) immunization coverage among 1-year-olds (%)
+life_expectancy: Life expectancy at birth (years)
+CHE: Current health expenditure (CHE) per capita in US$
+prevalence_underweight: Prevalence of underweight among adults, BMI < 18 (crude estimate) (%)
+alcohol_consumption: Alcohol, total per capita (15+) consumption (in litres of pure alcohol) (SDG Indicator 3.5.2), three-year average
+population: Population, total
+GDP: GDP (current US$)
